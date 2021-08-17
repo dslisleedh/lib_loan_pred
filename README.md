@@ -4,4 +4,4 @@
 
 모델 및 사용파일 : https://drive.google.com/drive/folders/18YzfzxA_J2TvyMyxRAllZWfdmptR_AYr?usp=sharing
 
-해당 서비스 주소 : 172.30.1.21:5000/index.html
+해당 서비스 주소 : http://dslisleedh.duckdns.org:5000/index.html
